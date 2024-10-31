@@ -4,7 +4,7 @@
 
 ## Overview
 
-Varion AI is a decentralized healthcare monitoring system designed to optimize hospital operations through artificial intelligence. By continuously monitoring patient health data, Varion AI leverages a decentralized machine learning model to assess the risk of cardiac arrest, ensuring data integrity and security. 
+Varion AI is an AI research group dedicated to integrating ICP's decentralized AI into healthcare systems. Our mission is to assess the capabilities and reliability of ICP's DeAI and explore its potential to enhance the modern healthcare systems and a vision of how decentralized technologies can address these issues.
 
 Powered by the Internet Computer Protocol, Varion AI provides a secure, scalable, and decentralized infrastructure, seamlessly integrating with centralized infrastructure to bridge between Web2 and Web3 data.
 
