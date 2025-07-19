@@ -1,6 +1,6 @@
 # Varion AI
 
-<p align="center"><img width="628" height="150" src="src/varion_frontend/public/varionlogo.png"></p>
+<p align="center"><img src="assets/banner.jpg"></p>
 
 ## Overview
 
